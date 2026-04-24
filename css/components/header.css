@@ -106,14 +106,16 @@
         align-items: flex-start;
     }
 
+
+
     .nav-center,
     .nav-right {
         width: 100%;
         text-align: center;
     }
 
-    .nav-center li,
-    .nav-right li {
+    .nav-center,
+    .nav-right {
         width: 100%;
         text-align: center;
     }
@@ -125,11 +127,8 @@
         width: 100%;
     }
 
-    .nav-center ul li,
-    .nav-right ul li {
 
-        width: 100%;
-    }
+
 
     .nav-center a,
     .nav-right a {
